@@ -32,7 +32,6 @@ After reading the blog series *"So You Want to Be a SOC Analyst"*, I decided to 
 
 ## Key Learnings
 
-Key Learnings
 Adversarial Simulations
 Used the Sliver C2 framework to simulate attacks like C2 sessions and reconnaissance, gaining insight into how attackers operate.
 

@@ -32,10 +32,20 @@ After reading the blog series *"So You Want to Be a SOC Analyst"*, I decided to 
 
 ## Key Learnings
 
-- **Cloud-Based SOC Operations**: Gained insights into setting up and managing security operations in a cloud environment, leveraging cloud-native tools and services.
-- **Endpoint Monitoring**: Developed skills in deploying and configuring EDR solutions to monitor and analyze endpoint activities effectively.
-- **Adversary Simulation**: Learned to simulate and analyze adversarial tactics, techniques, and procedures to better understand potential security threats.
-- **Proactive Threat Detection**: Enhanced abilities in creating detection rules and automated scans to identify and mitigate threats promptly.
+Key Learnings
+Adversarial Simulations
+Used the Sliver C2 framework to simulate attacks like C2 sessions and reconnaissance, gaining insight into how attackers operate.
+
+Detection and Response
+Built and tested detection rules in Azure Sentinel and monitored endpoint activity with LimaCharlie to identify and respond to malicious behavior.
+
+Blocking Threats
+Implemented rules in LimaCharlie to block payload execution and prevent unauthorized access to sensitive processes like lsass.exe.
+
+Building and Managing a Lab
+Set up a cloud-based lab with virtual machines and integrated tools to practice security monitoring, threat detection, and attack mitigation.
+
+
 
 ---
 

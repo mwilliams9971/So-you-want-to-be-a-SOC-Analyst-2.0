@@ -2,7 +2,7 @@
 
 ## Overview
 
-After reading the blog series *"So You Want to Be a SOC Analyst"*, I decided to try out the **Cloud SOC 2.0 Lab** to get hands-on experience and see if I would enjoy working in security operations. This lab focused on building a cloud-based SOC environment, simulating real-world scenarios, and practicing threat detection and response using tools like Azure Sentinel and LimaCharlie. It was a great way to explore SOC workflows, experiment with adversarial simulations, and learn more about the role of a SOC analyst.
+After reading the blog series *"So You Want to Be a SOC Analyst"*, I decided to try out the **Cloud SOC 2.0 Lab** to get hands-on experience and see if I would enjoy working in security operations. This lab focused on building a cloud-based SOC environment, simulating real-world scenarios, and practicing threat detection and response using tools like Azure Sentinel and LimaCharlie.
 
 ---
 

@@ -30,19 +30,20 @@ After reading the blog series *"So You Want to Be a SOC Analyst"*, I decided to 
 
 ---
 
-## Key Learnings
+### Key Learnings
 
-Adversarial Simulations
-Used the Sliver C2 framework to simulate attacks like C2 sessions and reconnaissance, gaining insight into how attackers operate.
+1. **Adversarial Simulations**  
+   Used the Sliver C2 framework to simulate attacks like C2 sessions and reconnaissance, gaining insight into how attackers operate.  
 
-Detection and Response
-Built and tested detection rules in Azure Sentinel and monitored endpoint activity with LimaCharlie to identify and respond to malicious behavior.
+2. **Detection and Response**  
+   Built and tested detection rules in Azure Sentinel and monitored endpoint activity with LimaCharlie to identify and respond to malicious behavior.  
 
-Blocking Threats
-Implemented rules in LimaCharlie to block payload execution and prevent unauthorized access to sensitive processes like lsass.exe.
+3. **Blocking Threats**  
+   Implemented rules in LimaCharlie to block payload execution and prevent unauthorized access to sensitive processes like `lsass.exe`.  
 
-Building and Managing a Lab
-Set up a cloud-based lab with virtual machines and integrated tools to practice security monitoring, threat detection, and attack mitigation.
+4. **Building and Managing a Lab**  
+   Set up a cloud-based lab with virtual machines and integrated tools to practice security monitoring, threat detection, and attack mitigation.
+
 
 
 

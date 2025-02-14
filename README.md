@@ -39,4 +39,3 @@ After reading the blog series *"So You Want to Be a SOC Analyst"*, I decided to 
 
 ---
 
-This lab experience has been instrumental in bridging theoretical knowledge with practical application, providing a solid foundation for a career in security operations.
